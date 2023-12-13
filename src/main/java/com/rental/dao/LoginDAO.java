@@ -17,7 +17,7 @@ public class LoginDAO {
 	//--------------START------get connection---------------
 	/**
 	 *
-	 * @author ARUN
+	 * @author Sooraj
 	 * @Date : 11-12-2023
 	 * @version : 1.0
 	 * @purpose : Initialize database connection
@@ -43,7 +43,7 @@ public class LoginDAO {
 	//--------------START------checkLogin---------------
 	/**
 	 * 
-	 * @author ARUN
+	 * @author Sooraj
 	 * @Date : 11-12-2023
 	 * @version : 1.0
 	 * @purpose : insert into table

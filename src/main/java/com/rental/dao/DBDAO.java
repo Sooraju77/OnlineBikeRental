@@ -15,7 +15,7 @@ public class DBDAO {
 	// --------------START------database initialization---------------
 	/**
 	 *
-	 * @author ARUN
+	 * @author Sooraj
 	 * @Date : 11-12-2023
 	 * @version : 1.0
 	 * @purpose :Initialize database connection values
@@ -39,7 +39,7 @@ public class DBDAO {
 	// --------------START----------database connection ------------
 	/**
 	 *
-	 * @author ARUN
+	 * @author Sooraj
 	 * @Date: 11-12-2023
 	 * @version : 1.0
 	 * @purpose : database connection
@@ -64,7 +64,7 @@ public class DBDAO {
 	// --------------START----------get db connection ------------
 	/**
 	 *
-	 * @author ARUN
+	 * @author Sooraj
 	 * @date : 11-12-2023
 	 * @version: 1.0
 	 * @purpose: Get Connection
@@ -81,7 +81,7 @@ public class DBDAO {
 
 	/**
 	 *
-	 * @author ARUN
+	 * @author Sooraj
 	 * @date : 11-12-2023
 	 * @version: 1.0
 	 * @purpose: Set Connection
@@ -98,7 +98,7 @@ public class DBDAO {
 
 	/**
 	 *
-	 * @author ARUN
+	 * @author Sooraj
 	 * @date : 11-12-2023
 	 * @version: 1.0
 	 * @purpose: Close connection

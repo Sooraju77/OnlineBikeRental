@@ -18,7 +18,7 @@ public class BikeDAO {
 	//--------------START------get connection---------------
 	/**
 	 *
-	 * @author ARUN
+	 * @author Sooraj
 	 * @Date : 11-12-2023
 	 * @version : 1.0
 	 * @purpose : Initialize database connection
@@ -44,7 +44,7 @@ public class BikeDAO {
 	//--------------START------checkLogin---------------
 	/**
 	 * 
-	 * @author ARUN
+	 * @author Sooraj
 	 * @Date : 11-12-2023
 	 * @version : 1.0
 	 * @purpose : retrieve data from table
@@ -90,7 +90,7 @@ public class BikeDAO {
 	//--------------START------checkLogin---------------
 		/**
 		 * 
-		 * @author ARUN
+		 * @author Sooraj
 		 * @Date : 13-12-2023
 		 * @version : 1.0
 		 * @purpose : update data from table

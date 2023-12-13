@@ -3,7 +3,7 @@ package com.rental.beans;
 public class UserBean {
 
 	/*
-	 * @author : ARUN
+	 * @author : Sooraj
 	 * @Date : 11-12-2023
 	 * @Version : 1.0
 	 * @Purpose : Bean / Model for login table
